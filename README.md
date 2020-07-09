@@ -3,6 +3,8 @@ Product Detection - Shopee Code League Competition 2020
 
 Team : INVICTUS - Andreas Martin, Andreas Cendranata, Christy Alverina Prasodjo, Mike Christ Heru
 
+===================
+
 My Submission :
 
 Model : NASNetLarge
