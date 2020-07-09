@@ -12,11 +12,15 @@ Accuracy - Public Scoreboard : 0.69094 / 1.0
 Accuracy - Private Scoreboard : 0.69608 / 1.0
 
 
+
+
 Model : DenseNet201
 
 Accuracy - Public Scoreboard : 0.61836 / 1.0
 
 Accuracy - Private Scoreboard : 0.63284 / 1.0
+
+
 
 
 Model : MobileNetV2
